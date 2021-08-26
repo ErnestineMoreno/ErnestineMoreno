@@ -8,6 +8,8 @@
 
 💬 &nbsp; You can reach me via email at **ernestine@devmode.net**
 
+👯 &nbsp; Founding Member of Tech Ladies®
+
 <br>
 
 <h2 align="left">Connect with me:</h2>
