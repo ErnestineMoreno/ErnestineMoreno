@@ -1,15 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ernestine Moreno aka "Tina"</h1>
-<h3 align="center">A Software Engineer 👩🏻‍💻</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ernestinemoreno" alt="ernestinemoreno" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tintinaintech" target="blank"><img src="https://img.shields.io/twitter/follow/tintinaintech?logo=twitter&style=for-the-badge" alt="tintinaintech" /></a> </p>
-
+<h1 align="center">Hi 👋, I'm Ernestine Moreno aka "Tina" 👩🏻‍💻</h1>
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://www.devmode.net/](https://www.devmode.net/)
+- 📝 All of my projects are available at [https://www.devmode.net/](https://www.devmode.net/)
 
-- 📫 How to reach me **ernestine@devmode.net**
+- 💬 How to reach me **ernestine@devmode.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +16,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Ernestinxa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ernestinxa" /></a></p><br><br>
+<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ernestinemoreno&show_icons=true&locale=en&layout=compact" alt="ernestinemoreno" /></p>
+
+
+
 
