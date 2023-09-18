@@ -2,12 +2,13 @@
 
 <h3 align="center">Hi 👋, I'm Ernestine aka "Tina"</h3>
 
+<p align="center">
  📝 &nbsp; My projects are available at [https://www.devmode.net/](https://www.devmode.net/)
 
  💬 &nbsp; You can reach me via email at **ernestine@devmode.net**
 
  👯 &nbsp; Founding Member of Tech Ladies®
-
+</p>
 
 <br>
 
