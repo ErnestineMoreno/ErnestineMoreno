@@ -4,7 +4,7 @@
 
  💬 &nbsp; Email: **ernestine@devmode.net**
 
- 👯 &nbsp; Founding Member of Tech Ladies®
+ 👯 &nbsp; Founding Member, Tech Ladies®
 
 <br>
 
