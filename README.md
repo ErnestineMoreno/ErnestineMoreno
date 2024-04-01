@@ -4,7 +4,7 @@
 
 ღ &nbsp; portfolio: [devmode.net](https://www.devmode.net/)
 
-ღ &nbsp; email: ernestine@devmode.net
+ღ &nbsp; email: [ernestine@devmode.net](https://www.devmode.net/connect)
 
 ღ &nbsp; [Tech Ladies®](https://www.hiretechladies.com/about-us)
 
