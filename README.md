@@ -2,9 +2,9 @@
 
 <h3 align="center">Hi 👋, I'm Ernestine aka "Tina"</h3>
 
-ღ &nbsp; Portfolio: [devmode.net](https://www.devmode.net/)
+ღ &nbsp; portfolio: [devmode.net](https://www.devmode.net/)
 
-ღ &nbsp; Email: **ernestine@devmode.net**
+ღ &nbsp; email: **ernestine@devmode.net**
 
 ღ &nbsp; [Tech Ladies®](https://www.hiretechladies.com/about-us)
 
