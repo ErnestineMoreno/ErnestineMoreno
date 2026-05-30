@@ -1,38 +1,42 @@
+<!-- ✦ ✦ ✦  BANNER  ✦ ✦ ✦ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,50:7873f5,100:4ADEDE&height=200&section=header&text=Tina%20Moreno&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&font=Poppins" alt="banner"/>
 
+<p align="center">
+  <a href="https://linkedin.com/in/etinamoreno"><img src="https://img.shields.io/badge/LinkedIn-7873f5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://www.hiretechladies.com/about-us"><img src="https://img.shields.io/badge/Tech_Ladies®-4ADEDE?style=for-the-badge&logoColor=white" alt="tech ladies"/></a>
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJtdW9nbXR4bmZucTBtcHUyZjJlNjdlMXg1cnllcDZmaTV6dGNmeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rGTa0t6AuFFKN3TOCR/giphy.gif" width="180" alt="pink robot"/>
+</p>
 
-ღ &nbsp; contact: [ernestine@devmode.net](https://www.devmode.net/connect) | [LinkedIn](https://linkedin.com/in/etinamoreno)
 <br>
-ღ &nbsp; affiliations:  [Tech Ladies®](https://www.hiretechladies.com/about-us) 
 
+<!-- ✦ ✦ ✦  TOOLBOX  ✦ ✦ ✦ -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,react,redux,nodejs,html,css,sass,bootstrap&theme=dark" alt="frontend skills"/>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,azure,heroku,jest,postman,figma&theme=dark" alt="backend skills"/>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="mocha"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6" alt="adobe xd"/>
+</p>
 
+<br>
 
-<h4 align="left">Languages and Developer Tools:</h4>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-<a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!-- ✦ ✦ ✦  STATS  ✦ ✦ ✦ -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErnestineMoreno&theme=radical&hide_border=true&background=0D1117&ring=ff6ec4&fire=ff6ec4&currStreakLabel=7873f5" alt="streak" />
+</p>
 
-<br><br>
+<br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ernestinemoreno&show_icons=true&locale=en&layout=compact" alt="ernestinemoreno" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ErnestineMoreno&label=profile%20views&color=ff6ec4&style=flat-square" alt="profile views" />
+</p>
 
-
-
-
+<!-- ✦ ✦ ✦  FOOTER  ✦ ✦ ✦ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4ADEDE,50:7873f5,100:ff6ec4&height=120&section=footer" alt="footer"/>
